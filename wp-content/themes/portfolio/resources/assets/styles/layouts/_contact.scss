@@ -1,0 +1,29 @@
+#contact{
+	background-color: $color-grey;
+}
+
+.contact__container{
+	height: 50vh;
+	padding-bottom: 10vh;
+	padding-top: 8vh
+}
+
+.contact__title {
+  color: $color-secondary;
+  font-weight: 700;
+  padding-left: 20px;
+  margin-bottom: 10vh }
+
+.contact__content img{
+  width: 5%; }
+
+.contact__content a {
+  text-decoration: none;
+  font-size: 20px; }
+
+.contact__mail img {
+  margin-right: 20px;
+  margin-left: 5px; }
+
+.contact__phone img {
+  margin-right: 5px; }

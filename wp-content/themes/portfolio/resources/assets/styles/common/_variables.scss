@@ -1,0 +1,16 @@
+/** Import Bootstrap functions */
+@import "~bootstrap/scss/functions";
+
+//Colors
+$color-primary : #962d32;
+$color-secondary : #333;
+$color-black : #121212;
+$color-grey: #f2f2f2;
+$color-white: #fff;
+
+//Fonts
+$raleway : "Raleway, sans-serif";
+
+/** Bootstrap navbar fix (https://git.io/fADqW) */
+$navbar-dark-toggler-icon-bg: none;
+$navbar-light-toggler-icon-bg: none;

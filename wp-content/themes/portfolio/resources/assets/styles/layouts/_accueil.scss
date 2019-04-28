@@ -1,0 +1,36 @@
+#accueil h1 {
+	margin-bottom: 30px;
+	margin-bottom: 30px;
+}
+
+.accueil__container {
+    position: relative;
+    height: 100vh;
+    margin-bottom: 2vh
+}
+
+.accueil__logo{
+    position: absolute;
+    top: 50%;
+    left: 25%;
+    transform: translate(-50%, -50%);
+    width: 90%;
+}
+
+.accueil__cv{
+    position: absolute;
+    top: 40%;
+    right: 0%;
+}
+
+.accueil__cv-container {
+  display: flex;
+  height: 30vh; }
+
+.accueil__cv-row div:first-child {
+  margin-bottom: 30px;
+}
+
+.accueil__cv-row{
+  margin: auto; }
+
